@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 
 <h1 align="center">Hi 👋, I'm Yogini Ingale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full-stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushhwani&label=Profile%20views&color=0e75b6&style=flat" alt="ayushhwani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhwani" alt="ayushhwani" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushhwani" alt="YoginiIngale" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ayushhwani01" target="blank"><img src="https://img.shields.io/twitter/follow/ayushhwani01?logo=twitter&style=for-the-badge" alt="ayushhwani01" /></a> </p>
+
 
 - 🌱 I’m currently learning **Java , Bootstrap(Framework)**
 
@@ -47,7 +47,7 @@
 
 - 💬 Ask me about **Html , Css , MySQL , JavaScript , Java**
 
-- 📫 How to reach me **aayushwani0448@gmail.com**
+- 📫 How to reach me **workforyogini@gmail.com**
 
 - ⚡ Fun fact **I am funny**
 
